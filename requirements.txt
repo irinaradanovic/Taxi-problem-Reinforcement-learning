@@ -1,0 +1,6 @@
+matplotlib
+notebook
+gymnasium[classic-control]
+tqdm
+ipywidgets
+pandas
